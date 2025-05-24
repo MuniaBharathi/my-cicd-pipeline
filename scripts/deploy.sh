@@ -1,1 +1,2 @@
-"echo Deploying application..." 
+#!/bin/bash
+echo "Deploying application..." 
